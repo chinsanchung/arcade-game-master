@@ -1,4 +1,4 @@
-# frontend-acade game
+# frontend-arcade game
 
 ## Tools
 - OS : Windows 10 Home
