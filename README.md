@@ -17,3 +17,7 @@
 - [W3Schools](https://www.w3schools.com/)
 - [SweetAlert2](https://sweetalert2.github.io/)
 - [MDN web docs](https://developer.mozilla.org/ko/)
+
+## Images
+![arcade01](https://github.com/chinsanchung/frontend-arcade-game/blob/master/Picture/ar01.jpg)
+![arcade02](https://github.com/chinsanchung/frontend-arcade-game/blob/master/Picture/ar02.jpg)
